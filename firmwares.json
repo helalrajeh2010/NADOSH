@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "brand": "Samsung",
+    "model": "SM-G930V",
+    "name": "Galaxy S7 Verizon",
+    "android_ver": "8.0",
+    "security_patch": "2020-10-01",
+    "region": "USA (VZW)",
+    "size": "2.4 GB",
+    "url": "https://example.com/path/to/firmware_g930v.zip"
+  },
+  {
+    "id": "2",
+    "brand": "Motorola",
+    "model": "XT2417-1",
+    "name": "Moto G 5G 2024",
+    "android_ver": "13.0",
+    "security_patch": "2024-01-01",
+    "region": "Global",
+    "size": "3.1 GB",
+    "url": "https://example.com/path/to/firmware_moto.zip"
+  }
+]
